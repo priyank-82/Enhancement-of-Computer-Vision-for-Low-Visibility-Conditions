@@ -37,4 +37,4 @@ python YOLOv3_obj_dect.py
 ```
  - The results of the object detection will be stored in the sand_d_res and zid_d_res folders.
   
-<p align="left"><img src="sand_d_res/image_63.jpg" width="640"\></p>
+<p align="left"><img src="sand_d_res/image_63.jpg" width="320"\></p>
