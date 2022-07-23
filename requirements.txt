@@ -1,0 +1,8 @@
+gluoncv
+mxnet
+torch
+torchvision
+matplotlib.pyplot
+numpy
+scipy
+opencv
