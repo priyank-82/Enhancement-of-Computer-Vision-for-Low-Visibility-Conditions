@@ -5,8 +5,9 @@ Proposing an approach to improve upon the performance of SOTA object detection m
  NOTE: Update the paths in the scripts according to your own system.
  
  - Clone the repo by entering the following command in cmd.
-        git clone https://github.com/priyank-82/Enhancement-of-Computer-Vision-for-Low-Visibility-Conditions
-        
+ '''      
+ git clone https://github.com/priyank-82/Enhancement-of-Computer-Vision-for-Low-Visibility-Conditions
+ '''       
  - Run the following command to create a virtual environment in the same folder of the downloaded repo.
         python -m venv <Path to the directory where the repo is downloaded>
   
