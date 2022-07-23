@@ -39,6 +39,7 @@ python YOLOv3_obj_dect.py
  
 ### Object Detection Result on Sandstorm Images
 <p align="center"><img src="sand_d_res/image_63.jpg" width="400"\></p>
+
 ### Object Detection Result on Dehazed Color Corrected Images
 <p align="center"><img src="zid_d_res/image_63.jpg" width="400"\></p>
 
