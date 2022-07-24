@@ -43,3 +43,14 @@ python YOLOv3_obj_dect.py
 ### Object Detection Result on Dehazed Color Corrected Images
 <p align="center"><img src="zid_d_res/image_63.jpg" width="400"\></p>
 
+## References
+- Liang, P., Dong, P., Wang, F. et al. Learning to remove sandstorm for image enhancement. Vis Comput (2022). https://doi.org/10.1007/s00371-022-02448-8
+
+- B. Li, Y. Gou, J. Z. Liu, H. Zhu, J. T. Zhou and X. Peng, "Zero-Shot Image Dehazing," in IEEE Transactions on Image Processing, vol. 29, pp. 8457-8466, 2020, 
+doi: 10.1109/TIP.2020.3016134.
+
+- W. Yang et al., "Advancing Image Understanding in Poor Visibility Environments: A Collective Benchmark Study," in IEEE Transactions on Image Processing, vol. 29, pp. 5737-5752, 2020, doi: 10.1109/TIP.2020.2981922.
+
+- C. Godard, O. M. Aodha, M. Firman and G. Brostow, "Digging Into Self-Supervised Monocular Depth Estimation," 2019 IEEE/CVF International Conference on Computer Vision (ICCV), 2019, pp. 3827-3837, doi: 10.1109/ICCV.2019.00393.
+
+- Mourad A. KENK, Mahmoud Hassaballah, July 4, 2020, "DAWN: Vehicle Detection in Adverse Weather Nature", IEEE Dataport, doi: https://dx.doi.org/10.21227/bw1x-yh39.
