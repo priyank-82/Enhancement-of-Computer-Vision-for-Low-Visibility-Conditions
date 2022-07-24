@@ -53,4 +53,3 @@ doi: 10.1109/TIP.2020.3016134.
 
 - C. Godard, O. M. Aodha, M. Firman and G. Brostow, "Digging Into Self-Supervised Monocular Depth Estimation," 2019 IEEE/CVF International Conference on Computer Vision (ICCV), 2019, pp. 3827-3837, doi: 10.1109/ICCV.2019.00393.
 
-- Mourad A. KENK, Mahmoud Hassaballah, July 4, 2020, "DAWN: Vehicle Detection in Adverse Weather Nature", IEEE Dataport, doi: https://dx.doi.org/10.21227/bw1x-yh39.
