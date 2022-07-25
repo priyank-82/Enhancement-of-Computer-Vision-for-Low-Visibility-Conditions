@@ -35,13 +35,7 @@ python RW_dehazing.py
 ```bash
 python YOLOv3_obj_dect.py
 ```
- - The results of the object detection will be stored in the sand_d_res and zid_d_res folders, Following are the examples of the same.
- 
-### Object Detection Result on Sandstorm Images
-<p align="center"><img src="sand_d_res/image_63.jpg" width="400"\></p>
-
-### Object Detection Result on Dehazed Color Corrected Images
-<p align="center"><img src="zid_d_res/image_63.jpg" width="400"\></p>
+ - The results of the object detection will be stored in the sand_d_res and zid_d_res folders.
 
 ## References
 - Liang, P., Dong, P., Wang, F. et al. Learning to remove sandstorm for image enhancement. Vis Comput (2022). https://doi.org/10.1007/s00371-022-02448-8
